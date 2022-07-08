@@ -2,6 +2,8 @@
 Simulate optimal gameplay, to find win, lose and tie percentage
 
 # Game strategy
+This strategy table is used to decide on the player's move based on the dealer's first card
+I have removed surrender option as it prevents the player from trying.
 Source: https://www.blackjackapprenticeship.com/blackjack-strategy-charts/ <br/><br/>
 ![Screenshot (852)](https://user-images.githubusercontent.com/51332449/177075903-4bad246c-abf8-46bc-a853-35f484726941.png) <br/>
 ![Screenshot (853)](https://user-images.githubusercontent.com/51332449/177075910-fbde8772-2358-4478-b2bc-4ee9aac866fb.png) <br/>
