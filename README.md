@@ -32,3 +32,4 @@ Final result<br/>
 
 ### After 1,000,000 of hands between player(s) and dealer
 ![image](https://user-images.githubusercontent.com/51332449/178006056-27c69dc2-1e39-4329-8adc-c5b0c2622cc5.png)<br/>
+Don't Gamble! Gambling is bad!
