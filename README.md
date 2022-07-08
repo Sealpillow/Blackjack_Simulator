@@ -16,12 +16,12 @@ Source: https://www.blackjackapprenticeship.com/blackjack-strategy-charts/ <br/>
 ![image](https://user-images.githubusercontent.com/51332449/177998960-d3eaf1ba-5e68-495b-b8c2-c4afcee989b4.png) <br/>
 
 ### Option 1:
-Full details with player and dealer hands and result after each round <br/>
+Full details with player(s) and dealer hands and result after each round <br/>
 ![image](https://user-images.githubusercontent.com/51332449/177999778-b7a426b9-b856-4ac2-b03b-f108f7dc2a00.png)<br/>
 ![image](https://user-images.githubusercontent.com/51332449/178000091-e8add0cf-1a7f-489a-8da2-4927635c4770.png)<br/>
 
 ### Option 2
-Full result after each round <br/>
+Full result after each round without the player(s) and dealer hands <br/>
 ![image](https://user-images.githubusercontent.com/51332449/178000442-6d725489-040f-401b-9a6d-bb3148ddb2de.png)<br/>
 ![image](https://user-images.githubusercontent.com/51332449/178000628-7e188cae-3517-452d-961d-79ad36ebb9c9.png)<br/>
 
