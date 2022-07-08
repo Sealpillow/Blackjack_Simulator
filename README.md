@@ -26,6 +26,9 @@ Full result after each round without the player(s) and dealer hands <br/>
 ![image](https://user-images.githubusercontent.com/51332449/178000628-7e188cae-3517-452d-961d-79ad36ebb9c9.png)<br/>
 
 ### Option 3
-Final result
+Final result<br/>
 ![image](https://user-images.githubusercontent.com/51332449/178001301-f1ae6796-421a-4987-8599-c15e9a33b3b6.png)<br/>
 ![image](https://user-images.githubusercontent.com/51332449/178001489-d821f213-f055-4ba9-b29c-89bd783555b2.png)<br/>
+
+### After 1,000,000 of hands between player(s) and dealer
+![image](https://user-images.githubusercontent.com/51332449/178006056-27c69dc2-1e39-4329-8adc-c5b0c2622cc5.png)<br/>
